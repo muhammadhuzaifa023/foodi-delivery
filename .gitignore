@@ -1,0 +1,25 @@
+# Dependency directories
+node_modules/
+foodi-client/node_modules/
+foodi-server/node_modules/
+
+# Build outputs
+dist/
+foodi-client/dist/
+build/
+
+# Environment variables
+.env
+.env.local
+foodi-client/.env
+foodi-client/.env.local
+foodi-server/.env
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+*.log
+
+# Vercel related
+.vercel/
